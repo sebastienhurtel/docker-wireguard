@@ -21,7 +21,7 @@ RUN \
 	gnupg \ 
 	ifupdown \
 	iproute2 \
-	iptables \
+	nftables \
 	iputils-ping \
 	jq \
 	libc6 \
