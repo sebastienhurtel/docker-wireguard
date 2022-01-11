@@ -51,7 +51,6 @@ hostname3.20
 ifupdown0.8.17ubuntu1.1
 init-system-helpers1.51
 iproute24.15.0-2ubuntu1.3
-iptables1.6.1-2ubuntu2
 iputils-ping3:20161105-1ubuntu3
 jq1.5+dfsg-2
 kmod24-1ubuntu3.5
@@ -190,6 +189,7 @@ mount2.31.1-0.4ubuntu3.7
 multiarch-support2.27-3ubuntu1.4
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
+nftables0.8.2-1-2ubuntu2
 net-tools1.60+git20161116.90da8a0-1ubuntu1
 openresolv3.8.0-1
 openssl1.1.1-1ubuntu2.1~18.04.14
