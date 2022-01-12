@@ -18,15 +18,15 @@ RUN \
 	curl \
 	dkms \
 	git \
-	gnupg \ 
+	gnupg \
 	ifupdown \
 	iproute2 \
-	nftables \
 	iputils-ping \
 	jq \
 	libc6 \
 	libelf-dev \
 	net-tools \
+	nftables \
 	openresolv \
 	perl \
 	pkg-config \
